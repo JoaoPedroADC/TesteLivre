@@ -1,0 +1,16 @@
+{
+  "name": "testelivre",
+  "version": "1.0.0",
+  "description": "O objetivo é treinar de forma massiva códigos, frameworks e técnicas para se tornar um programador excelente.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "next": "^13.1.6",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
